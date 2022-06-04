@@ -1,2 +1,2 @@
-worker: python main.py
-heroku ps:scale worker=1
+bot: python main.py
+clock: python main.py
