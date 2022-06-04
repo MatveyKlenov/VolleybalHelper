@@ -1,2 +1,2 @@
-bot: python main.py
-clock: python main.py
+bot: python main_order.py
+clock: python main_order.py
